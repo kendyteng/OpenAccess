@@ -1,17 +1,20 @@
 #  Building a cohort life table
 This is the README file for the R codes for the UK dog life table study
 
-### Citation 
+## Citation 
 
-### System requirements 
-#### Software dependencies
+## System requirements 
+### Software dependencies
 R (and Rstudio)
 
-#### Versions the software has been tested on
+### Versions the software has been tested on
 R: R version 4.0.2
 RStudio: Version 1.3.1073
 
-#### Any required non-standard hardware
+### R package dependencies 
+“ananResult:
+
+### Any required non-standard hardware
 No
 
 Installation guide
