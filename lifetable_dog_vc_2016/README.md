@@ -31,6 +31,7 @@ No installation is needed.
 ## Demo
 ### Instructions to run on data
 Please follow 'lifetable_instruction' file
+'lifetable_func_oa' file contains the functions of building cohort life tables 
 
 ### Expected output
 A few demo life tables from the data of this study and a simulated dataset
