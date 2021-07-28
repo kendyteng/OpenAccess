@@ -11,9 +11,14 @@ R (and Rstudio)
 R: R version 4.0.2
 RStudio: Version 1.3.1073
 
-### R package dependencies 
-“ananResult:
+### R package dependencies of the demo
+    rio
+    tidyverse
+    janitor
 
+### R package dependencies of the lifetable functions
+    tidyverse
+    
 ### Any required non-standard hardware
 No
 
