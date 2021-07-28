@@ -1,12 +1,18 @@
-#  README
-This is the README file for the R codes for the UK life table study
+#  Building a cohort life table
+This is the README file for the R codes for the UK dog life table study
 
-Citation: 
+### Citation 
 
-System requirements 
-1. Software dependencies: R (and Rstudio)
-2. Versions the software has been tested on: Version 1.1
-3. Any required non-standard hardware: No
+### System requirements 
+#### Software dependencies
+R (and Rstudio)
+
+#### Versions the software has been tested on
+R: R version 4.0.2
+RStudio: Version 1.3.1073
+
+#### Any required non-standard hardware
+No
 
 Installation guide
 1. Download R from: https://www.r-project.org/
